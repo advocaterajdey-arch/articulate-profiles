@@ -1,0 +1,17 @@
+{
+  "profiles": {
+    "claude": {
+      "version": "1.0.0",
+      "filename": "claude.md"
+    },
+    "chatgpt": {
+      "version": "1.0.0",
+      "filename": "chatgpt.md"
+    },
+    "gemini": {
+      "version": "1.0.0",
+      "filename": "gemini.md"
+    }
+  },
+  "updated_at": "2026-03-22"
+}
